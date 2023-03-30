@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "812064294731",
+    "firebase_url": "https://hungryhands-69809-default-rtdb.firebaseio.com",
+    "project_id": "hungryhands-69809",
+    "storage_bucket": "hungryhands-69809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812064294731:android:1e6eba08c8d70183cd4ace",
+        "android_client_info": {
+          "package_name": "com.HungryHandsCSUN.Hungry_Hands_Restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812064294731-nk887jfgpe0re9i2kguhf84m7jfad115.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp6YOHWt8Y_64-xKMVMCv9GraApD6c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812064294731-de04fte8f9tvq7s54gu40lk3enld1fk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HungryHandsCSUN.Hungry-Hands-User"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812064294731:android:b28b2a6694783f69cd4ace",
+        "android_client_info": {
+          "package_name": "com.HungryHandsCSUN.Hungry_Hands_User"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812064294731-1n64chlrp85e57ovkqvefo2kigp86c2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HungryHandsCSUN.Hungry_Hands_User",
+            "certificate_hash": "a29d47404b5b218c7f74d77f8342dfbd307d4f1f"
+          }
+        },
+        {
+          "client_id": "812064294731-nk887jfgpe0re9i2kguhf84m7jfad115.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp6YOHWt8Y_64-xKMVMCv9GraApD6c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812064294731-de04fte8f9tvq7s54gu40lk3enld1fk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HungryHandsCSUN.Hungry-Hands-User"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812064294731:android:d48b6348da67f3c7cd4ace",
+        "android_client_info": {
+          "package_name": "com.example.hands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812064294731-nk887jfgpe0re9i2kguhf84m7jfad115.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp6YOHWt8Y_64-xKMVMCv9GraApD6c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812064294731-de04fte8f9tvq7s54gu40lk3enld1fk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HungryHandsCSUN.Hungry-Hands-User"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812064294731:android:468b2dc53a3cb2fecd4ace",
+        "android_client_info": {
+          "package_name": "com.example.hungry_hands_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812064294731-nk887jfgpe0re9i2kguhf84m7jfad115.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp6YOHWt8Y_64-xKMVMCv9GraApD6c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812064294731-de04fte8f9tvq7s54gu40lk3enld1fk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HungryHandsCSUN.Hungry-Hands-User"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
